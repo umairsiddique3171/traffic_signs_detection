@@ -1,0 +1,9 @@
+path: C:\Users\US593\Work\Datasets\Traffic_Signs_Dataset
+train: C:\Users\US593\Work\Datasets\Traffic_Signs_Dataset\images\train
+val: C:\Users\US593\Work\Datasets\Traffic_Signs_Dataset\images\val
+
+names: 
+  0: prohibitory 
+  1: danger
+  2: mandatory
+  3: other
